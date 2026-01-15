@@ -1,0 +1,38 @@
+curl 'https://www.controller.com/ajax/listings/ajaxsearch?sort=1&page=2&lang=en-US' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json' \
+  -H 'cookie: ASP.NET_SessionId=q1ostamwuxkuolio0edn1cdb; geoipcountryid=id=178; __RequestVerificationToken=nazktiCenGkTmDbDiUbOVDdHTZNef219NJDf9N8WZkOxC040Da9_gKQx8GtSinu26KTDOg2; _hjSessionUser_1143839=eyJpZCI6IjExZjIxMTQzLWRmZTUtNTliYy1hZmY0LWYwYjExYmFiMWNmMSIsImNyZWF0ZWQiOjE3MzUzMjkzNTUwMzMsImV4aXN0aW5nIjp0cnVlfQ==; DDSearch=ddIndustry=&ddCategory=&ddManu=&ddModel=&tab=Equipment&fitsto=&artype=Equipment&ddLT=&ddMG=false; undefined; __XSRF-TOKEN=6Va8h1R4yQx55YgVGuSPcggHZMaJkwubBi49Bgm0xfKnd0iNR7Dg7qio2f4uH1huOS3zocmxFSdP06fDlMCMuEaw7t0wCm4nxdIstts-26hyiS_eUzXKCicpuwPoPSNVD2ZokXIq744g_atmcMlGsclnViWddCYuUIabQw2; _gid=GA1.2.1042064190.1735794198; sandhills-consent={"StrictlyNecessary":true,"Customization":true,"Advertising":true,"Analytics":true,"ShouldResync":false,"ActionDateTime":"2025-01-02T05:14:36.469Z","ConsentStatus":"ACCEPT","WebAgreementID":146}; Tracking=SessionStarted=1&UserReferrer=https%3a%2f%2fwww.controller.com%2flistings%2fsearch%3fkeywords%3d2023%2520airbus%2520h125&GUID=07076794669015519691; reese84=3:Q7Mlg/W8JBXZPjBrRym+Sw==:mTNCmMd1LexdjwAthBusb66J8QDD2pvTcnyQZPkEUh3WsK8LlDR5BNa8Kf6a0vfW29+KgrBtjqCSZE0VB/VhQ3Yr5CNCiPSiHCuwVemlajrS82PXpd3OLa9wBIPuO+n2n6RsSnHUPORDfTlgUXrlu1IbqhsLf+YI0nWMI+U+nasYghB0egdRPLikgt72FL+0c5SAW3JABQxC3BimHxPkGLQ6QVftq9DT8eem3rQceCFu2U8vb5NoAWYTe/ZnRAdcVKnsyubzRlLWjzKQbrbJlxI0XuDt5kRkr2V2I8P0Yze0H1uyvZReQ5LZ0QFtuS937Cm/VnXznJX6L1XC+2cjPnXpLUYoDY0AaXCAidzZGkqWPL5xTG/FVdT+EqQ+jKlsTQPjA7FEvrbhT8bO64td/rDSZzA5bcHRn/7ROTNxvu/LXtfjtCBA7UqM9IdnEgzhrP8M8zB9cDPDlp03ecc08w==:VTjyRFyzqimkUXpiTOI9qxyEdNgIMsujWV7dPTy0/B4=; AMP_TOKEN=%24NOT_FOUND; _hjSession_1143839=eyJpZCI6IjMxNmRhMjE5LWM4ZTQtNDMxYS1iNmI1LWVhNzNmNWUwZjgyMiIsImMiOjE3MzU4MzU5MDUxNjAsInMiOjEsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=; UserID=ID=YYAuf1gk2OCIpOMcewyVBoaAaGFiooeoMlgxufsBQ7HkgVEwM%2fxkcR5eQHlfpK%2b6iqhHrQrm0Tyb7YegY%2bLrZA%3d%3d&LV=%2bc8B0KyZ8m%2fLHOIbqDqrBkB3%2fZMn1MbsfOTX83orfz234QrzzFWsCd9gvB%2fe1RyaFDYaATT9IG8mx22ENbRaiz%2bbSJnlnGok; UserSettingsCookie=screenSize=982|695; BIGipServerwww.controller.tradesites_http_pool=3347097792.20480.0000; _ga=GA1.2.1811333302.1735329354; _gat_UA-18085307-10=1; _uetsid=e12490e0c8c611ef93916b54f1964207; _uetvid=95156f90c48c11efb9343112fa7663b1; _ga_8LG8ZS4P9J=GS1.1.1735835900.7.1.1735837037.45.0.0' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://www.controller.com/listings/search' \
+  -H 'sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'x-xsrf-token: FAfcy4xJOA2knzq8UY4XMf0ambi13uWGSckXqFgn4VmTGcPtu_qxIzF0FifSOET7zAnIxpx2oD8WurBOE-fxPXCH227TpTQf7L28KkGFUZX4hRnUd96PeyWSAxSoIZHfX2BgOpjlZhUL2_5CT3P8Qw5n-5Kj7IQVnoQGS4zWCs9KwsaiazCRcqWG-xA1'
+
+-H 'cookie: 
+ASP.NET_SessionId=q1ostamwuxkuolio0edn1cdb; 
+geoipcountryid=id=178; 
+__RequestVerificationToken=nazktiCenGkTmDbDiUbOVDdHTZNef219NJDf9N8WZkOxC040Da9_gKQx8GtSinu26KTDOg2;
+_hjSessionUser_1143839=eyJpZCI6IjExZjIxMTQzLWRmZTUtNTliYy1hZmY0LWYwYjExYmFiMWNmMSIsImNyZWF0ZWQiOjE3MzUzMjkzNTUwMzMsImV4aXN0aW5nIjp0cnVlfQ==; 
+DDSearch=ddIndustry=&ddCategory=&ddManu=&ddModel=&tab=Equipment&fitsto=&artype=Equipment&ddLT=&ddMG=false; 
+undefined; 
+__XSRF-TOKEN=6Va8h1R4yQx55YgVGuSPcggHZMaJkwubBi49Bgm0xfKnd0iNR7Dg7qio2f4uH1huOS3zocmxFSdP06fDlMCMuEaw7t0wCm4nxdIstts-26hyiS_eUzXKCicpuwPoPSNVD2ZokXIq744g_atmcMlGsclnViWddCYuUIabQw2; 
+_gid=GA1.2.1042064190.1735794198; 
+sandhills-consent={"StrictlyNecessary":true,"Customization":true,"Advertising":true,"Analytics":true,"ShouldResync":false,"ActionDateTime":"2025-01-02T05:14:36.469Z","ConsentStatus":"ACCEPT","WebAgreementID":146}; 
+Tracking=SessionStarted=1&UserReferrer=https%3a%2f%2fwww.controller.com%2flistings%2fsearch%3fkeywords%3d2023%2520airbus%2520h125&GUID=07076794669015519691; 
+reese84=3:Q7Mlg/W8JBXZPjBrRym+Sw==:mTNCmMd1LexdjwAthBusb66J8QDD2pvTcnyQZPkEUh3WsK8LlDR5BNa8Kf6a0vfW29+KgrBtjqCSZE0VB/VhQ3Yr5CNCiPSiHCuwVemlajrS82PXpd3OLa9wBIPuO+n2n6RsSnHUPORDfTlgUXrlu1IbqhsLf+YI0nWMI+U+nasYghB0egdRPLikgt72FL+0c5SAW3JABQxC3BimHxPkGLQ6QVftq9DT8eem3rQceCFu2U8vb5NoAWYTe/ZnRAdcVKnsyubzRlLWjzKQbrbJlxI0XuDt5kRkr2V2I8P0Yze0H1uyvZReQ5LZ0QFtuS937Cm/VnXznJX6L1XC+2cjPnXpLUYoDY0AaXCAidzZGkqWPL5xTG/FVdT+EqQ+jKlsTQPjA7FEvrbhT8bO64td/rDSZzA5bcHRn/7ROTNxvu/LXtfjtCBA7UqM9IdnEgzhrP8M8zB9cDPDlp03ecc08w==:VTjyRFyzqimkUXpiTOI9qxyEdNgIMsujWV7dPTy0/B4=; 
+AMP_TOKEN=%24NOT_FOUND; 
+_hjSession_1143839=eyJpZCI6IjMxNmRhMjE5LWM4ZTQtNDMxYS1iNmI1LWVhNzNmNWUwZjgyMiIsImMiOjE3MzU4MzU5MDUxNjAsInMiOjEsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=; 
+UserID=ID=YYAuf1gk2OCIpOMcewyVBoaAaGFiooeoMlgxufsBQ7HkgVEwM%2fxkcR5eQHlfpK%2b6iqhHrQrm0Tyb7YegY%2bLrZA%3d%3d&LV=%2bc8B0KyZ8m%2fLHOIbqDqrBkB3%2fZMn1MbsfOTX83orfz234QrzzFWsCd9gvB%2fe1RyaFDYaATT9IG8mx22ENbRaiz%2bbSJnlnGok; 
+UserSettingsCookie=screenSize=982|695; 
+BIGipServerwww.controller.tradesites_http_pool=3347097792.20480.0000; 
+_ga=GA1.2.1811333302.1735329354; 
+_gat_UA-18085307-10=1; 
+_uetsid=e12490e0c8c611ef93916b54f1964207; 
+_uetvid=95156f90c48c11efb9343112fa7663b1; 
+_ga_8LG8ZS4P9J=GS1.1.1735835900.7.1.1735837037.45.0.0' \

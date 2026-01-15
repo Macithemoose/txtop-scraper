@@ -1,0 +1,342 @@
+{
+  "SortApplied": {
+    "Id": 0,
+    "Name": null,
+    "Fields": null,
+    "IsDistanceSort": null,
+    "IsDefaultSort": null,
+    "ApplyBillingAndFeaturedSort": null
+  },
+  "CurrentPage": 56,
+  "ListingCountTitle": "0 - 0 of 399 Listings",
+  "ListingsCount": 399,
+  "Listings": [],
+  "TotalPages": 15,
+  "SimilarListingsModel": null,
+  "PageSize": 28,
+  "DoubleClickAdCollectionViewModel": {
+    "DoubleClickAdCollection": {
+      "NetworkCode": "101960517",
+      "Targeting": {
+        "Manufacturer": [
+          "CIRRUS"
+        ],
+        "Category": [
+          "6",
+          "3"
+        ]
+      },
+      "AdUnits": [
+        {
+          "ID": "21778422032",
+          "AdUnitCode": "3-7-5-1",
+          "AdUnitSizes": [
+            {
+              "AdFormatID": 55,
+              "AdFormat": "Generic Double Click",
+              "Height": 1,
+              "Width": 1,
+              "RenditionType": "Desktop",
+              "CheckSum": null,
+              "Message": null,
+              "Success": true
+            },
+            {
+              "AdFormatID": 49,
+              "AdFormat": "Banner",
+              "Height": 60,
+              "Width": 468,
+              "RenditionType": "Mobile",
+              "CheckSum": null,
+              "Message": null,
+              "Success": true
+            },
+            {
+              "AdFormatID": 51,
+              "AdFormat": "Wide Listings Banner",
+              "Height": 120,
+              "Width": 1078,
+              "RenditionType": "Desktop",
+              "CheckSum": null,
+              "Message": null,
+              "Success": true
+            }
+          ],
+          "Description": "",
+          "EffectiveTeamIds": null,
+          "ExplicitlyTargeted": false,
+          "ExternalSetTopBoxChannelId": null,
+          "HasChildren": false,
+          "LastModifiedDateTime": "2018-12-21T11:52:23",
+          "Name": "Controller_StandardListings",
+          "ParentId": "21647727958",
+          "ParentPath": [
+            {
+              "ID": "100960637",
+              "AdUnitCode": "ca-pub-9132844133095093",
+              "Name": "ca-pub-9132844133095093",
+              "CheckSum": null,
+              "Message": null,
+              "Success": true
+            },
+            {
+              "ID": "21647727958",
+              "AdUnitCode": "Controller",
+              "Name": "Controller",
+              "CheckSum": null,
+              "Message": null,
+              "Success": true
+            }
+          ],
+          "Status": "ACTIVE",
+          "AdSiteID": 7,
+          "AdGroup": "StandardListings",
+          "AdGroupID": 1,
+          "PublicationTypeID": 5,
+          "CheckSum": null,
+          "Message": null,
+          "Success": true
+        },
+        {
+          "ID": "21778586451",
+          "AdUnitCode": "3-7-5-29",
+          "AdUnitSizes": [
+            {
+              "AdFormatID": 55,
+              "AdFormat": "Generic Double Click",
+              "Height": 1,
+              "Width": 1,
+              "RenditionType": "Desktop",
+              "CheckSum": null,
+              "Message": null,
+              "Success": true
+            }
+          ],
+          "Description": "",
+          "EffectiveTeamIds": null,
+          "ExplicitlyTargeted": false,
+          "ExternalSetTopBoxChannelId": null,
+          "HasChildren": false,
+          "LastModifiedDateTime": "2018-12-21T07:41:06",
+          "Name": "Controller_Top_PopUp",
+          "ParentId": "21647727958",
+          "ParentPath": [
+            {
+              "ID": "100960637",
+              "AdUnitCode": "ca-pub-9132844133095093",
+              "Name": "ca-pub-9132844133095093",
+              "CheckSum": null,
+              "Message": null,
+              "Success": true
+            },
+            {
+              "ID": "21647727958",
+              "AdUnitCode": "Controller",
+              "Name": "Controller",
+              "CheckSum": null,
+              "Message": null,
+              "Success": true
+            }
+          ],
+          "Status": "ACTIVE",
+          "AdSiteID": 7,
+          "AdGroup": "Top_PopUp",
+          "AdGroupID": 29,
+          "PublicationTypeID": 5,
+          "CheckSum": null,
+          "Message": null,
+          "Success": true
+        }
+      ]
+    },
+    "TopAdvertisement": {
+      "ID": "21778422032",
+      "AdUnitCode": "3-7-5-1",
+      "AdUnitSizes": [
+        {
+          "AdFormatID": 55,
+          "AdFormat": "Generic Double Click",
+          "Height": 1,
+          "Width": 1,
+          "RenditionType": "Desktop",
+          "CheckSum": null,
+          "Message": null,
+          "Success": true
+        },
+        {
+          "AdFormatID": 49,
+          "AdFormat": "Banner",
+          "Height": 60,
+          "Width": 468,
+          "RenditionType": "Mobile",
+          "CheckSum": null,
+          "Message": null,
+          "Success": true
+        },
+        {
+          "AdFormatID": 51,
+          "AdFormat": "Wide Listings Banner",
+          "Height": 120,
+          "Width": 1078,
+          "RenditionType": "Desktop",
+          "CheckSum": null,
+          "Message": null,
+          "Success": true
+        }
+      ],
+      "Description": "",
+      "EffectiveTeamIds": null,
+      "ExplicitlyTargeted": false,
+      "ExternalSetTopBoxChannelId": null,
+      "HasChildren": false,
+      "LastModifiedDateTime": "2018-12-21T11:52:23",
+      "Name": "Controller_StandardListings",
+      "ParentId": "21647727958",
+      "ParentPath": [
+        {
+          "ID": "100960637",
+          "AdUnitCode": "ca-pub-9132844133095093",
+          "Name": "ca-pub-9132844133095093",
+          "CheckSum": null,
+          "Message": null,
+          "Success": true
+        },
+        {
+          "ID": "21647727958",
+          "AdUnitCode": "Controller",
+          "Name": "Controller",
+          "CheckSum": null,
+          "Message": null,
+          "Success": true
+        }
+      ],
+      "Status": "ACTIVE",
+      "AdSiteID": 7,
+      "AdGroup": "StandardListings",
+      "AdGroupID": 1,
+      "PublicationTypeID": 5,
+      "CheckSum": null,
+      "Message": null,
+      "Success": true
+    },
+    "MiddleAdvertisement": null,
+    "BottomAdvertisement": null,
+    "AuctionResultsAdvertisement": null,
+    "TopPopUpAdvertisement": {
+      "ID": "21778586451",
+      "AdUnitCode": "3-7-5-29",
+      "AdUnitSizes": [
+        {
+          "AdFormatID": 55,
+          "AdFormat": "Generic Double Click",
+          "Height": 1,
+          "Width": 1,
+          "RenditionType": "Desktop",
+          "CheckSum": null,
+          "Message": null,
+          "Success": true
+        }
+      ],
+      "Description": "",
+      "EffectiveTeamIds": null,
+      "ExplicitlyTargeted": false,
+      "ExternalSetTopBoxChannelId": null,
+      "HasChildren": false,
+      "LastModifiedDateTime": "2018-12-21T07:41:06",
+      "Name": "Controller_Top_PopUp",
+      "ParentId": "21647727958",
+      "ParentPath": [
+        {
+          "ID": "100960637",
+          "AdUnitCode": "ca-pub-9132844133095093",
+          "Name": "ca-pub-9132844133095093",
+          "CheckSum": null,
+          "Message": null,
+          "Success": true
+        },
+        {
+          "ID": "21647727958",
+          "AdUnitCode": "Controller",
+          "Name": "Controller",
+          "CheckSum": null,
+          "Message": null,
+          "Success": true
+        }
+      ],
+      "Status": "ACTIVE",
+      "AdSiteID": 7,
+      "AdGroup": "Top_PopUp",
+      "AdGroupID": 29,
+      "PublicationTypeID": 5,
+      "CheckSum": null,
+      "Message": null,
+      "Success": true
+    },
+    "MiddleIndex": 7,
+    "BottomIndex": 14,
+    "ShouldRenderDoubleClickAds": true,
+    "UseAlternateAdPlacement": false
+  },
+  "ListingIdsForShippingEstimates": null,
+  "SortOrderItems": [
+    {
+      "Key": 1,
+      "Value": "Best Match - (Manufacturer, Model, Year, Price) - Default"
+    },
+    {
+      "Key": 6,
+      "Value": "Distance: Nearest"
+    },
+    {
+      "Key": 2,
+      "Value": "Price: Low to High"
+    },
+    {
+      "Key": 3,
+      "Value": "Price: High to Low"
+    },
+    {
+      "Key": 4,
+      "Value": "Year: Low to High"
+    },
+    {
+      "Key": 5,
+      "Value": "Year: High to Low"
+    },
+    {
+      "Key": 11,
+      "Value": "Manufacturer"
+    },
+    {
+      "Key": 10,
+      "Value": "Model"
+    },
+    {
+      "Key": 12,
+      "Value": "Serial Number"
+    },
+    {
+      "Key": 9,
+      "Value": "Recently Added"
+    },
+    {
+      "Key": 14,
+      "Value": "Recently Updated"
+    }
+  ],
+  "distanceSortID": 6,
+  "defaultSortID": 1,
+  "HighLowAverageURL": "/DataAnalysis/ParseHighLowAverage?ListingType=For%20Retail%7CFor%20Lease%7CFor%20Fractional%20Ownership&ManufacturerName=CIRRUS&IsModelGroup=False&ScopeCategoryIDs=13%7C464",
+  "LocationString": "",
+  "CategoryInformation": null,
+  "LocalizedSimilarListingsInfo": {
+    "DefaultCountryName": null,
+    "SimilarListings": null,
+    "SimilarSearchSuggestions": null,
+    "ViewAllText": null
+  },
+  "DealerHeader": null,
+  "MarketAnalysis": null,
+  "CustomWatchLists": null,
+  "IsFTISearch": false
+}

@@ -1,0 +1,207 @@
+[
+    {
+        "domain": ".controller.com",
+        "expiry": 1736319306,
+        "httpOnly": false,
+        "name": "_hjSession_1143839",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "eyJpZCI6ImEzMTBhNjZlLTJlYjMtNGVhYi05MjAyLTY2OTIxNTBmYmRiNSIsImMiOjE3MzYzMTc1MDY1NjYsInMiOjEsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0="
+    },
+    {
+        "domain": ".controller.com",
+        "expiry": 1767853506,
+        "httpOnly": false,
+        "name": "_hjSessionUser_1143839",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "eyJpZCI6ImRlZDgwNDUzLTBmMGEtNWRiOC05ZmQ4LTNkYjBiOGRiNTI0MCIsImNyZWF0ZWQiOjE3MzYzMTc1MDY1NDcsImV4aXN0aW5nIjp0cnVlfQ=="
+    },
+    {
+        "domain": ".controller.com",
+        "expiry": 1736403906,
+        "httpOnly": false,
+        "name": "_uetsid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "4d683b40cd8911efb7e05d8c4bee5258"
+    },
+    {
+        "domain": ".controller.com",
+        "expiry": 1736403906,
+        "httpOnly": false,
+        "name": "_gid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.2.922845039.1736317506"
+    },
+    {
+        "domain": ".controller.com",
+        "expiry": 1770877506,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.2.1237625600.1736317506"
+    },
+    {
+        "domain": ".controller.com",
+        "expiry": 1736321106,
+        "httpOnly": false,
+        "name": "AMP_TOKEN",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "%24NOT_FOUND"
+    },
+    {
+        "domain": ".controller.com",
+        "expiry": 1736317566,
+        "httpOnly": false,
+        "name": "_gat_UA-18085307-10",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".controller.com",
+        "expiry": 1738909502,
+        "httpOnly": false,
+        "name": "reese84",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "3:V6CxAofIIuLAtEaU+mr+9Q==:H834BF3jM9Wkt22xZwMglHCzZVE56KPHzjSGyaGy37VBOezLwFHqcqcmoI2a/02ro9bBepP+Tohl5W/q+9b9jLwCWoUdQWPJ++ZqfVLbDhYzTGsjbMIDOpZgi+NXK5rznkPIGb6/r0fqh4V8qi5FJhBtxDxTyb4tF5NBpaebJLsxuQln/G8/1snXAlio94Ioz0425TX+R+jgmBJNJYUYA0Ry8/KMx9CqEf5jkFzX4QMcBeF+oMV+mLkjDxJmUkY2VifYyX63RhDSdHpuwGu6IkRrn+K/xJKEQLSupCT2eT+vZLsdC5M/m+K/5iQT6pTJJGZPD9g47Q5YjkwE5Ah7JO8MK+M4Xc53vX33QKNp4ZMJKGUQOZEto8jPCsivyFW80d4TnO6a9vXX7gCCWspV9k8NvjUnGttcJJWdxNid6Pw0ylT92y8YQD3bCGtJYu/2SYq6oW0Heg7aBu+JLmXgvQ==:Ka/t1X9ygk0I5twvcdfIs4EDq56MHUOtWPRM7H2orxg="
+    },
+    {
+        "domain": "www.controller.com",
+        "httpOnly": false,
+        "name": "geoipcountryid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "id=178"
+    },
+    {
+        "domain": "www.controller.com",
+        "httpOnly": true,
+        "name": "BIGipServerwww.controller.tradesites_http_pool",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "914467008.20480.0000"
+    },
+    {
+        "domain": ".controller.com",
+        "expiry": 1770013506,
+        "httpOnly": false,
+        "name": "__gpi",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "UID=00000fb1af4c685d:T=1736317506:RT=1736317506:S=ALNI_MY4ckoHJ1JTgPjMi4K9iggIDMsVuw"
+    },
+    {
+        "domain": ".controller.com",
+        "expiry": 1770877505,
+        "httpOnly": false,
+        "name": "_ga_8LG8ZS4P9J",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GS1.1.1736317505.1.0.1736317505.60.0.0"
+    },
+    {
+        "domain": "www.controller.com",
+        "expiry": 1767852000,
+        "httpOnly": false,
+        "name": "UserSettingsCookie",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "screenSize=1440|811"
+    },
+    {
+        "domain": "www.controller.com",
+        "httpOnly": true,
+        "name": "ASP.NET_SessionId",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "eqi52kbjcgq0xrx33zw4p4bl"
+    },
+    {
+        "domain": ".controller.com",
+        "expiry": 1751869506,
+        "httpOnly": false,
+        "name": "__eoi",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "ID=30ca669d3c358e1b:T=1736317506:RT=1736317506:S=AA-Afjb5zcmH46GOxqc6SqDrGhrr"
+    },
+    {
+        "domain": "www.controller.com",
+        "expiry": 1736318705,
+        "httpOnly": false,
+        "name": "Tracking",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "SessionStarted=1&UserReferrer=https%3a%2f%2fwww.controller.com%2flistings%2fsearch&GUID=29865544743991594958123"
+    },
+    {
+        "domain": ".controller.com",
+        "expiry": 1770013506,
+        "httpOnly": false,
+        "name": "_uetvid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "4d6872c0cd8911ef94ecf13256f7887e"
+    },
+    {
+        "domain": ".controller.com",
+        "expiry": 1770013506,
+        "httpOnly": false,
+        "name": "__gads",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "ID=860ccb022136b582:T=1736317506:RT=1736317506:S=ALNI_Ma6PxOmjcKruIX_tCrXESoL7ZzR3A"
+    },
+    {
+        "domain": "www.controller.com",
+        "httpOnly": true,
+        "name": "__RequestVerificationToken",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "FcZBcM90lJRMG4dqeEXbpdqKYcnNj-_ipEngPore9TS8EEbqCijvcz-6f53mJj6voV7k3g2"
+    },
+    {
+        "domain": "www.controller.com",
+        "httpOnly": true,
+        "name": "__XSRF-TOKEN",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "vu_fgaZFF572gQu2zvl0C8wrDp1qJX-3Ve56817ZJbWKtRINaIzyVA5EIrhInug52C2GQ8NcdOPZlVOgRs-V8gl5sweH9nZcI8JYABbGRcWYXVI5GH9I2h3w8qcIG-Zi4cgY7ifWAxiqIinSNmjtZ7j2GORJk0z9lNtBQw2"
+    },
+    {
+        "domain": "www.controller.com",
+        "expiry": 1770877503,
+        "httpOnly": false,
+        "name": "UserID",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "ID=3Eejk%2f%2bRHbBR%2fNBBkzo96nX76jqF3UsQzrNGTjYs%2fW9NtaSLtFjB80twJGzYj%2b6isYB5lrLg7fYTIp6KUt5Bdw%3d%3d&LV=VrechYBJ2%2bI%2ftCsA3S1gZLcng8rkdSAsF5AR1sQ6fXxtIU58BS9hTyX%2bBXIpbdFkwrxNDJJcZH69IxnCAmeVHxl9kItLsxTL"
+    }
+]

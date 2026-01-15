@@ -1,0 +1,15 @@
+curl 'https://www.controller.com/ajax/listings/ajaxsearch?keywords=cirrus&sort=1&page=2&lang=en-US' \
+-H 'accept: application/json, text/plain, */*' \
+-H 'accept-language: en-US,en;q=0.9' \
+-H 'content-type: application/json' \
+-H 'cookie: _hjSessionUser_1143839=eyJpZCI6ImU5ODg3NGY4LTc0ZTYtNWIwZC1iNWE2LWFjMjBlMTEyNWM2OCIsImNyZWF0ZWQiOjE3NDc3NzgwNDkzMTcsImV4aXN0aW5nIjp0cnVlfQ==; sandhills-consent={"StrictlyNecessary":true,"Customization":true,"Advertising":true,"Analytics":true,"ShouldResync":false,"ActionDateTime":"2024-12-30T01:56:25.118Z","ConsentStatus":"ACCEPT","WebAgreementID":146}; ASP.NET_SessionId=0zhkpnpklgqhqdtuqdl5ei3w; geoipcountryid=id=178; __RequestVerificationToken=S5JjrOJkhjgT7RX8TJDWfgozYogRIs6r3VvBpe2XdqvsOrWvGxwAFUB7lsbyyRo3jRGeOA2; __XSRF-TOKEN=aNYSgR2FXVDyoHGbUPpr2KtwpwwW9rZs1oKn-eOOwKvtj6FoqKUlmz_rH2R8gOJWX8XXhICAGyrsgnyjbgFeswd8cwv3uSIqGGSlToaTsOfae4bJ4pxh9DMteyUaHfXNZiOl8dPF-hja4jIZ5eb-D4NZ6k6j5sz2nMWGzw2; KeywordSearchHistory=cirrus&=/listings?keywords=cirrus,beechcraft PRATT & WHITNEY PT6A-60A&=/listings?keywords=beechcraft%20PRATT%20%26%20WHITNEY%20PT6A-60A,CIRRUS&=/listings/for-sale/cirrus/aircraft,beechcraft PRATT & WHITNEY PT6A-60A - Keyword&=/listings/for-sale/search?Keywords=beechcraft%20PRATT%20%26%20WHITNEY%20PT6A-60A; Tracking=SessionStarted=1&UserReferrer=https%3a%2f%2fwww.controller.com%2flistings%2fsearch%3fpage%3d3%2c+https%3a%2f%2fwww.controller.com%2f&GUID=55931608427333365770; reese84=3:3rsbO/YsuFb7yXH/QTPPcQ==:j45Z8XSOwcpLrFPo72WVS2qCUPujKkm3T9kt7BuBKC13asYa8Kex6wo0xZ8En/7652MP10mGG6YXBqZCPu0EDOn6lkePU2Ve5YrZDWB1qoLy5vgyisgZoqY1Z5frd/kz+SvyugulGnPbpjkTJwVCQR5xIpPhsLHB0aW/YAqsYQBTjFOauR7pn1fN/DnT9a4iw/qC29xmmOjPRDnfIXJmLVRujQHWmjJcd8zo/AE6dbp6fodiY5rmPSdYCHXsmvRmXu3298SV3E45mtuPOh1+xpmGp95SOHOXXqsqpzeQ8UUeJMIeuFeVVkFYSke71/blsAxacqsUptnUm+E6vNv16ydLUzsmg9XTwFjUAxlCGL3DGqJkpKGH+51Kci3jcqt3kqStMAeZTjyk5IQVpEwLdzqt4Pu4XOy8sdYbc5lSEY2/LPxmg+UpPp1eQHmlUCDv4Ys6jctJx6F2rjqohdDFWh7+OV/nK4cvZ1p0qAwH3fI=:Kw4u7sfTJUM94/kkEv03nolPnp7bpXsjpI/k91Ug/VU=; UserID=ID=YS0UCig0HiUk6eKtemPg3KJaPPdiGKW2KypI%2bsNrhm7AOsZLj6mMkpNnRr8XDj5LXPJY3t2ga9kxYW5HTjDmXw%3d%3d&LV=kKaL5bctgkZd0VP5ehC5AkljWzJYn32SHcg2BpfoXbiBFlDAkA4wCuNYkQGk6BYpYSIcETxcjVpoQPNS%2bTIocciVMKoPncz6; BIGipServerwww.controller.tradesites_http_pool=914467008.20480.0000; VisitorID=YS0UCig0HiUk6eKtemPg3KJaPPdiGKW2KypI%2bsNrhm7AOsZLj6mMkpNnRr8XDj5LXPJY3t2ga9kxYW5HTjDmXw%3d%3d; UserSettingsCookie=screenSize=1540|736' \
+-H 'priority: u=1, i' \
+-H 'referer: https://www.controller.com/listings?keywords=cirrus' \
+-H 'sec-ch-ua: "Google Chrome";v="132", "Chromium";v="132", "Not_A Brand";v="132"' \
+-H 'sec-ch-ua-mobile: ?0' \
+-H 'sec-ch-ua-platform: "Windows"' \
+-H 'sec-fetch-dest: empty' \
+-H 'sec-fetch-mode: cors' \
+-H 'sec-fetch-site: same-origin' \
+-H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36' \
+-H 'x-xsrf-token: aDyG0Qw3AlA2e_xbZOZtye7IX8kuVIqroK_A6JrlUX6z3NsiFtK2AN2b_tbDV2BfqAgxW9hE6Cp_0KRAlinOyQmmqSSoF2MzEtAKaU3OsBB47chkwDoBbfBKQAGLgZjHJvjO4UbE7AtquHTHgNJ_An93fJW2KiT_5jF4budlSWOQKSSYJiqFA6dboBU1'
