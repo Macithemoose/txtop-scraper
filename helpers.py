@@ -9,7 +9,7 @@ from openpyxl.styles import Alignment
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import seleniumwire.undetected_chromedriver as uc
+import undetected_chromedriver as uc
 from contextlib import contextmanager
 from bs4 import BeautifulSoup
 import time
@@ -281,40 +281,7 @@ def filter_year(planes, years):
     return correct_planes
 
 
-# Sets up the web driver with the right options and headers
-# def setup_driver():
-    options = uc.ChromeOptions()
-    options.add_argument('--allow-insecure-localhost')
-    options.add_argument("--enable-javascript")
-    options.add_argument('--allow-third-party-cookies')
-
-    # If running in Docker (Linux), the Dockerfile sets these env vars:
-    chrome_bin = os.environ.get("CHROME_BIN")
-    selenium_flags = os.environ.get("SELENIUM_FLAGS", "")
-
-    # Apply any headless/container flags from env (space-separated)
-    for flag in selenium_flags.split():
-        if flag.strip():
-            options.add_argument(flag.strip())
-
-    caps = options.to_capabilities()
-    caps["acceptInsecureCerts"] = True
-
-    # Choose executable path depending on environment
-    exec_path = None
-    if chrome_bin and platform.system().lower() == "linux":
-        # Docker/CI: trust env path to Chromium
-        exec_path = chrome_bin
-        driver = uc.Chrome(browser_executable_path=exec_path, options=options, desired_capabilities=caps)
-        print('Used Linux chrome')
-    else:
-        # Local Windows dev fallback (your original behavior)
-        print("Used original Windows chrome")
-        exec_path = "chrome-win64/chrome.exe"
-        driver = uc.Chrome(browser_executable_path=exec_path, version_main=134, options=options, desired_capabilities=caps)
-
-    return driver
-
+# Sets up the web driver with the right options and headerss
 def setup_driver():
     options = uc.ChromeOptions()  
     # adding option to get past insecure network error:
@@ -329,8 +296,8 @@ def setup_driver():
 
     ## Create Chrome Driver
     driver = uc.Chrome(
-        browser_executable_path="chrome-win64/chrome.exe", 
-        version_main = 134, 
+        browser_executable_path="/Applications/Google Chrome.app", 
+        version_main = 144, 
         options=options, 
         desired_capabilities=caps)
     return driver
@@ -345,9 +312,9 @@ def interceptor(request):
     request.headers['content-type'] = 'application/json'
     request.headers['priority'] = 'u=1, i'
     request.headers['referer'] = 'https://www.controller.com/'
-    #request.headers['sec-ch-ua'] = '"Google Chrome";v="134", "Chromium";v="134", "Not_A Brand";v="24"'
+    request.headers['sec-ch-ua'] = '"Google Chrome";v="144", "Chromium";v="144", "Not_A Brand";v="24"'
     request.headers['sec-ch-ua-mobile'] = '?0'
-    request.headers['sec-ch-ua-platform'] = 'Windows' if platform.system() == 'Windows' else 'Linux'
+    request.headers['sec-ch-ua-platform'] = 'macOS' 
     request.headers['sec-fetch-dest'] = 'empty'
     request.headers['sec-fetch-mode'] = 'cors'
     request.headers['sec-fetch-site'] = 'same-origin'
